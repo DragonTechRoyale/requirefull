@@ -1,9 +1,9 @@
-Package: com.matrix.requirefull
+Package: com.a12x.requirefull
 Name: RequireFull
 Depends: mobilesubstrate
-Version: 0.0.2
+Version: 0.0.3
 Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
+Description: An awesome MobileSubstrate tweak! Compiled for arm64e by @DTR4K
 Maintainer: Zhigang Fang
 Author: Zhigang Fang
 Section: Tweaks
